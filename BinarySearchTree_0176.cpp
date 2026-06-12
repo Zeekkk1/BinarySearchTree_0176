@@ -12,6 +12,6 @@ public:
     Node(string i, Node* l, Node* r) {
         info = i;
         leftChild = l;
-        rightChil
+        rightChild = r;
     }
-}
+};
